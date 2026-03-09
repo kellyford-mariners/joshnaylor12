@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "joshnaylor12",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "07d05c74-af83-480f-80ca-914edd823344",
+			"database_name": "naylz_mariners"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
